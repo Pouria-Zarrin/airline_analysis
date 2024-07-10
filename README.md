@@ -4,17 +4,28 @@ This project focuses on understanding the factors that influence airline prices 
 ## Project Description
 This project involves an in-depth exploration of airline price data to identify patterns and insights that can help predict and understand the variability in ticket prices. The dataset includes the following features:
 
-miles: Distance traveled by the flight in miles <b>
+miles: Distance traveled by the flight in miles  
+
 passengers: Number of passengers on the flight
+
 delay: Take-off delay in minutes
+
 inflight_meal: Availability of an inflight meal
+
 inflight_entertainment: Availability of free entertainment systems for each seat
+
 inflight_wifi: Availability of complimentary wifi on the flight
+
 day_of_week: Day of the week the flight took place
+
 weekend: Indicator if the flight took place on a weekend
+
 coach_price: Average price paid for a coach ticket
+
 firstclass_price: Average price paid for first-class seats
+
 hours: Duration of the flight in hours
+
 redeye: Indicator if the flight was a redeye (overnight)
 
 ## Objectives
