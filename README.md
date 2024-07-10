@@ -4,7 +4,7 @@ This project focuses on understanding the factors that influence airline prices 
 ## Project Description
 This project involves an in-depth exploration of airline price data to identify patterns and insights that can help predict and understand the variability in ticket prices. The dataset includes the following features:
 
-miles: Distance traveled by the flight in miles
+miles: Distance traveled by the flight in miles <b>
 passengers: Number of passengers on the flight
 delay: Take-off delay in minutes
 inflight_meal: Availability of an inflight meal
